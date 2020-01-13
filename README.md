@@ -41,6 +41,6 @@ Once you've written `createStore`, to everything working, you'll need two more t
 
 ## Resources
 
-* [Redux Documentation](http://redux.js.org/docs/basics/Store.html)
+* [Redux Documentation - Store](https://redux.js.org/api/store#store)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-create-store-lab'>Redux Create Store Lab</a> on Learn.co and start learning to code for free.</p>
